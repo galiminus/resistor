@@ -1,3 +1,5 @@
+[Try it there!](https://resistor.phoqu.es)
+
 ![Screenshot](./screenshot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
